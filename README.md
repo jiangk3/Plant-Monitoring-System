@@ -1,6 +1,6 @@
 # Plant-Monitoring-System
 Short abstract :  
-We built a project that monitors the humidity of soil in a plant, the amount sunlight the plant is absorbing, and the amount of UV striking the plant. The plant monitoring system notifies the user(wherever he/she is) when watering is required and if there is too much UV. These notifications are sent to the user’s phone and the data is also be reported to the users phone. This system is useful for people who are busy throughout the day and as well for novice gardeners. Analyzing the soil humidity decides how much watering is required. We used the Sparkfun ESP 8266 dev to build the project. 
+We built a project that monitors the humidity of soil in a plant, the amount sunlight the plant is absorbing, and the amount of UV striking the plant. The plant monitoring system notifies the user(wherever he/she is) when watering is required and if there is too much UV. These notifications are sent to the user’s phone and the data is also be reported to the users phone. This system is useful for people who are busy throughout the day and as well for novice gardeners. Analyzing the soil humidity decides how much watering is required. We used the Sparkfun ESP 8266 dev to build the project.
  
  
 # Sensors that we are using: 
